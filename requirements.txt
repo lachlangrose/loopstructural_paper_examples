@@ -7,4 +7,5 @@ matplotlib
 scikit-learn
 scikit-image
 pyamg
-
+aiohttp
+jupyter_server_proxy

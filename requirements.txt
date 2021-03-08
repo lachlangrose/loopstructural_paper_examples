@@ -1,4 +1,4 @@
-loopstructural
+loopstructural=1.0.82
 numpy
 lavavu-osmesa
 numpy

@@ -1,1 +1,1 @@
-FROM loop3d/loop:paper
+FROM loop3d/loop:loopstructural_paper

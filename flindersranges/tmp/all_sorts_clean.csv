@@ -1,0 +1,9 @@
+index,group number,index in group,number in group,code,group,uctype,colour
+0,1,1,2,Pound_Subgroup,Wilpena_Group,erode,#ffe6cc
+1,1,2,2,ABC_Range_Quartzite,Wilpena_Group,erode,#ffe699
+2,2,1,4,Wilpena_Group,Heysen_Supergroup,erode,#ffe6b3
+3,2,2,4,Yerelina_Subgroup,Heysen_Supergroup,erode,#ffe6e6
+4,2,3,4,Umberatana_Group,Heysen_Supergroup,erode,#e6ccb3
+5,2,4,4,Yudnamutana_Subgroup,Heysen_Supergroup,erode,#b39999
+6,3,1,2,Emeroo_Subgroup,Warrina_Supergroup,erode,#994d4d
+7,3,2,2,Burra_Group,Warrina_Supergroup,erode,#b39966

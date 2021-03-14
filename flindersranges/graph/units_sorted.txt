@@ -1,0 +1,9 @@
+0 14473 545 556 0 Pound Subgroup
+1 141166 635 720 0 Emeroo Subgroup
+2 147678 541 635 0 ABC Range Quartzite
+3 356493 590 635 0 Yerelina Subgroup
+4 392069 700 777 0 Burra Group
+5 494881 556 588 0 Wilpena Group
+6 570976 658 700 0 Yudnamutana Subgroup
+7 888187 541 2500 0 Unnamed GIS Unit - see description
+8 943505 541 720 0 Umberatana Group

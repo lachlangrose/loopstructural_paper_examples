@@ -1,0 +1,10 @@
+index,group number,index in group,number in group,code,group
+0,1,1,2,Pound_Subgroup,Wilpena_Group
+1,1,2,2,ABC_Range_Quartzite,Wilpena_Group
+2,2,1,4,Wilpena_Group,Heysen_Supergroup
+3,2,2,4,Yerelina_Subgroup,Heysen_Supergroup
+4,2,3,4,Umberatana_Group,Heysen_Supergroup
+5,2,4,4,Yudnamutana_Subgroup,Heysen_Supergroup
+6,3,1,2,Emeroo_Subgroup,Warrina_Supergroup
+7,3,2,2,Burra_Group,Warrina_Supergroup
+8,4,1,1,Unnamed_GIS_Unit___see_description,Unnamed_GIS_Unit___see_description

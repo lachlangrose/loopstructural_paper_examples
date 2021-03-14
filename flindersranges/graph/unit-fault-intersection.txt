@@ -1,0 +1,8 @@
+0, ABC Range Quartzite, {523, 546}
+1, Burra Group, {338, 339, 340, 341, 342, 343, 344, 621}
+2, Emeroo Subgroup, {339, 340, 341, 342, 343, 344, 516, 621}
+3, Umberatana Group, {331, 338, 508}
+4, Unnamed GIS Unit - see description, {331, 338, 524}
+5, Wilpena Group, {332, 334}
+6, Yerelina Subgroup, {508}
+7, Yudnamutana Subgroup, {331, 621}

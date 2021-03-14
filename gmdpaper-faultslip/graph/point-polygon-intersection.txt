@@ -1,0 +1,2 @@
+#ID,SiteCode,SiteCommo,PositionX,PositionY,DistanceToContact,ContainingPolygonID,NeighbourPolygonID,ContainingPolygonCode,NeighbourPolygonCode,ContactType,FaultID
+0,S0231389,Asbr,502147.40277673,7488324.384321019,41.67,16314,16314,A-HAm-cib,A-HAm-cib,Fault,5997

@@ -1,0 +1,9 @@
+index,group number,index in group,number in group,code,group,uctype,colour
+0,1,1,5,Weeli_Wolli_Formation,Hamersley_Group,erode,#E0CABF
+1,1,2,5,Brockman_Iron_Formation,Hamersley_Group,erode,#84CDFA
+2,1,3,5,Mount_McRae_Shale_and_Mount_Sylvia_Formation,Hamersley_Group,erode,#B6846A
+3,1,4,5,Wittenoom_Formation,Hamersley_Group,erode,#E0CABF
+4,1,5,5,Marra_Mamba_Iron_Formation,Hamersley_Group,erode,#B5E1FC
+5,2,1,3,Jeerinah_Formation,Fortescue_Group,erode,#DDDFC4
+6,2,2,3,Bunjinah_Formation,Fortescue_Group,erode,#E6E7D3
+7,2,3,3,Fortescue_Group,Fortescue_Group,erode,#8EE4B4

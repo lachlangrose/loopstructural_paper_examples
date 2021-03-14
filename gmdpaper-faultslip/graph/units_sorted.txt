@@ -1,0 +1,8 @@
+0 9814.64 2715 2718 0 Bunjinah Formation
+1 13075.1 2450 2451 1 Weeli Wolli Formation
+2 26930.6 2597 2629 0 Marra Mamba Iron Formation
+3 27888.1 2629 2775 1 Fortescue Group
+4 30770.8 2504 2597 0 Wittenoom Formation
+5 31192.2 2501 2541 0 Mount McRae Shale and Mount Sylvia Formation
+6 39958.2 2451 2494 0 Brockman Iron Formation
+7 51766.8 2629 2713 1 Jeerinah Formation

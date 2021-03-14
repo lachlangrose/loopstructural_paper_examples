@@ -1,0 +1,8 @@
+0, Brockman Iron Formation, {5997, 6205, 7344}
+1, Bunjinah Formation, {6522, 7344}
+2, Fortescue Group, {5997, 6205, 7344, 7967}
+3, Jeerinah Formation, {5997, 6205, 7344, 7967}
+4, Marra Mamba Iron Formation, {5997, 6205, 7344}
+5, Mount McRae Shale and Mount Sylvia Formation, {5997, 6205, 7344}
+6, Weeli Wolli Formation, {6205}
+7, Wittenoom Formation, {5997, 6205, 7344}
